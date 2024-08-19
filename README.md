@@ -22,5 +22,3 @@ Each task has the following properties:
 - status: The status of the task (to-do, in-progress, done).
 - createdAt: The date when the task was created.
 - updatedAt: The date when the task was last updated.
-
-##
